@@ -5,7 +5,7 @@ The sample data set (provided) involves car information such as vehicle weight, 
 ## MPG Analysis
 From an individual standpoint, the relevant data that showed correlation were ground clearance and vehicle length. Both were positive correlations, interpreted as an increase in ground clearance or vehicle length leads to an incerease in mpg. Using ANOVA (analysis of variance) testing, it can be corroborated the ground celarance and vehicle lengths have stronger correlations than the other factors. 
 
-Some visuals pertaining to this single factor comparison model can be seen in the list below, such as [lengthVSmpg.png](lengthVSmpg.png) for a representation of linear regression.
+Some visuals pertaining to the single factor comparison model can be seen in the list below, such as [lengthVSmpg.png](lengthVSmpg.png) for a representation of linear regression.
 - [spoilerVSmpg.png](spoilerVSmpg.png)
 - [lengthVSmpg.png](lengthVSmpg.png)
 - [clearanceVSmpg.png](clearanceVSmpg.png)
