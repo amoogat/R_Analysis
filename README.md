@@ -1,5 +1,5 @@
 # Mecha Car - RStudio
-The sample data set (provided) involves car information such as vehicle weight, length, and mpg. Using multiple linear regression and relevant determined factors, the mpg can be approximated using a probability metric (r^2). The suspension can also be scrutinized to determine the success of variance specification. Overall, R is used here to perform the necessary statistical tests for hypothesis testing, linear regression modeling for predictions, and confidence interval verification.
+The sample data set (provided) involves car information such as vehicle weight, length, and mpg. Using multiple linear regression and relevant determined factors, the mpg can be approximated using a probability metric (r^2). The suspension coil data can also be scrutinized to determine the success of variance specification (|var| < 100 PSI). Overall, R is used here to perform the necessary statistical tests for hypothesis testing, linear regression modeling for predictions, and confidence interval verification.
 
 
 ## MPG Analysis
